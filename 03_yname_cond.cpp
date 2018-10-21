@@ -2,6 +2,9 @@
 #include <iostream>
 #include <string>
 
+/* 03 - A program that asks the user for their name and greets them with their name
+but only if their name is Alice or Bob*/
+
 using namespace std;
 
 int main() 
