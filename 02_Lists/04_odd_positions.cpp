@@ -9,7 +9,6 @@ using namespace std;
 
 
 list<int> my_oddposition(list<int> input){
-  bool i=false;
   list<int> output;
   list<int>::iterator it=input.begin();
   for(int i=0;i<input.size();i+=2){
