@@ -22,6 +22,5 @@ list<int> mylist({1,2,3,4,5,6,7});
    cout << *it << " ";
  }
  cout << "\n";
- //cout << get_largest_element(&mylist) << "\n";
 return 0;
 }
